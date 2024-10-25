@@ -1,0 +1,8 @@
+@use 'style/variaveis';
+@use 'style/reset';
+@use 'style/header';
+@use 'style/produtos';
+
+body {
+    color: variaveis.$corPrimaria;
+}
